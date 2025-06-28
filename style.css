@@ -29,3 +29,30 @@ h2{
     line-height: 1.5;
     font-size: 40px;
 }
+.q{
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 25px;
+    color: gray;
+}
+
+p{
+    font-size: 23px;
+    color: rgb(94, 92, 92);
+    line-height: 1.5;
+}
+
+.correc{
+    font-family: Montserrat;
+    font-weight: 450;
+    color: rgb(5, 92, 150);
+}
+
+.pic {
+    width: 150px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 800px;
+    margin-bottom: 20px;
+}
