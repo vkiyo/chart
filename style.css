@@ -22,12 +22,15 @@ li {
     color: rgb(92, 90, 90);
 }
 #fr{
-    color: rgb(70, 2, 70);
+    color: rgba(77, 6, 77, 0.849);
 }
 
 h2{
     line-height: 1.5;
     font-size: 40px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
 }
 .q{
     font-family: Montserrat;
@@ -51,8 +54,7 @@ p{
 
 .pic {
     width: 150px;
-    float: right;
-    margin-left: 20px;
-    margin-right: 800px;
-    margin-bottom: 20px;
+    display: inline-block;
+    position: absolute;
+    left: 650px;
 }
